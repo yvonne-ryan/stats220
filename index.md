@@ -2,6 +2,8 @@ Create a new file within your stats220 repo called “index.md”.
 
 Edit the index.md file so that it displays a new original meme that you have created using Rcode and the {magick} package, as well as the R code you used to create it.
 
+![](my_meme.png)
+
 Your index.md file needs contain information about the meme you created, for example, whatthe motivation was, and how your meme is new/original (e.g. an adaption of an existing memeformat).
 
 Either one or both of your README.md and index.md files needs text that demonstrates at least the following Markdown syntax:
