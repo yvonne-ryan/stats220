@@ -1,3 +1,5 @@
+![](my_gif.gif)
+
 Create a new file within your stats220 repo called “index.md”.
 
 Edit the index.md file so that it displays a new original meme that you have created using Rcode and the {magick} package, as well as the R code you used to create it.
