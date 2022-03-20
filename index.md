@@ -1,6 +1,6 @@
 ![](welcome.png)
 
-Create a new file within your stats220 repo called “index.md”.
+Welcome to my STATS220 Assignment 1! 
 
 Edit the index.md file so that it displays a new original meme that you have created using Rcode and the {magick} package, as well as the R code you used to create it.
 
@@ -10,7 +10,19 @@ Below is the meme I've created! The inspiration for this meme comes from my role
   <img src="my_meme.png" />
 </p>
 
-Throughout my time working on people's gardens and lawns, I've met some very interesting characters, and some who aren't quite aware of 
+Throughout my time working on people's gardens and lawns, I've met some very interesting characters, and some who aren't quite aware that the purpose of lawn mowing is to cut the grass - not :sparkles: *just* :sparkles: to walk the mower over it! 
+
+<p align="center">
+     Don't be that person
+</p>
+
+```r
+p.s. i know the line above doesn't come out as bold - i just like the way it looks with the formatting :)
+```
+
+!<-- p.s. i know the line above doesn't come out as bold - i just like the way it looks with the formatting :) -->
+
+But hey, if you're happy for us to pretend to cut ya grass while you still pay - we're not not gonna argue! 
 
 
 Your index.md file needs contain information about the meme you created, for example, whatthe motivation was, and how your meme is new/original (e.g. an adaption of an existing memeformat).
