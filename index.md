@@ -1,4 +1,4 @@
-# WELCOME 
+![](welcome.png)
 
 Create a new file within your stats220 repo called “index.md”.
 
@@ -12,7 +12,6 @@ Below is the meme I've created! The inspiration for this meme comes from my role
 
 Throughout my time working on people's gardens and lawns, I've met some very interesting characters, and some who aren't quite aware of 
 
-![](my_meme.png)
 
 Your index.md file needs contain information about the meme you created, for example, whatthe motivation was, and how your meme is new/original (e.g. an adaption of an existing memeformat).
 
