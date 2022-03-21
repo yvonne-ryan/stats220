@@ -10,10 +10,8 @@
 </h3>
 
 <p align="center">
-     Welcome to my STATS 220 Assignment 1! <br /> <br /> Below is the meme I've created! The inspiration for this meme comes from my role in helping to run a small lawn-mowing and garden maintenance business in Tauranga! :deciduous_tree:
+     Welcome to my STATS 220 Assignment 1! <br /> <br /> Below is the meme I've created! The inspiration for this meme comes from my role in helping to run a small lawn-mowing and garden maintenance business in Tauranga! <span>:deciduous_tree:</span>
 </p> 
-
-:deciduous_tree:
 
 <p img align="center">
   <img src="my_meme.png" />
