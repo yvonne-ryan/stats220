@@ -13,6 +13,8 @@
      Welcome to my STATS 220 Assignment 1! <br /> <br /> Below is the meme I've created! The inspiration for this meme comes from my role in helping to run a small lawn-mowing and garden maintenance business in Tauranga! :deciduous_tree:
 </p> 
 
+:deciduous_tree:
+
 <p img align="center">
   <img src="my_meme.png" />
 </p>
@@ -24,7 +26,7 @@
 <p align="center">
      Unless you would like to be ripped off, <br /> 
   <em>please</em> <br /> 
-  <strong>Don't be that person</strong>
+  <strong>Don't be that person!</strong>
 </p>
 
 ### About my meme
