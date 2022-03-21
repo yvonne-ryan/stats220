@@ -11,7 +11,7 @@
 
 <p align="center">
      Welcome to my STATS 220 Assignment 1! <br /> <br /> Below is the meme I've created! The inspiration for this meme comes from my role in helping to run a small lawn-mowing and garden maintenance business in Tauranga! <br />
-  <span>:deciduous_tree:</span>
+  🌳
 </p> 
 
 <p img align="center">
@@ -19,12 +19,12 @@
 </p>
 
 <p align="center">
-  Throughout my time working on people's gardens and lawns, I've met some very interesting characters, and some who aren't quite aware that the purpose of lawn mowing is to cut the grass - not <span>:sparkles:</span> <em>just</em> <span>:sparkles:</span> to walk the mower over it! 
+  Throughout my time working on people's gardens and lawns, I've met some very interesting characters, and some who aren't quite aware that the purpose of lawn mowing is to cut the grass - not ✨ <em>just</em> ✨ to walk the mower over it! 
  </p>
 
 <p align="center">
   Unless you would like to be ripped off <br /> 
-  <span>:cherry_blossom:</span> <em>please</em> <span>:cherry_blossom:</span> <br /> 
+  🌸 <em>please</em> 🌸 <br /> 
   <strong>Don't be that person!</strong>
 </p>
 
@@ -34,7 +34,7 @@ Now that you know a little of the inspiration behind my meme, let me tell you ho
 
 Through using a similar format and two images from some very well known memes, I've adjusted the context to suit my day-to-day dealings - the pictures describe exactly what goes through my head on a daily basis! Thus, was able to adapt the meme to me! 
 
-To create them, I used the R [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package and `R` code which is displayed below: 
+To create them, I used the R [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package and `R` code which is displayed below: 
 
  ```r
 library(magick)
@@ -107,4 +107,4 @@ I hope you've found some of this interesting!
 
 Thanks for reading! 
 
-:four_leaf_clover:
+🍀
