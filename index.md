@@ -37,6 +37,8 @@ Through using a similar format and two images from some very well known memes, I
 To create them, I used the R [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package and `R` code which is displayed below: 
 
  ```r
+library(magick)
+
 # first text line 
 line1 <- image_blank(width = 500, 
                      height = 80,
