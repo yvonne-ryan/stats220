@@ -27,11 +27,11 @@
   <strong>Don't be that person</strong>
 </p>
 
-## About my meme
+### About my meme
 
 Now that you know a little of the inspiration behind my meme, let me tell you how I created it! 
 
-Though the images used are of two very well known memes, I've adjusted the context to suit my day-to-day dealings - the pictures describe exactly what goes through my head on a daily basis! 
+Though the images used are of two very well known memes, I've adjusted the context to suit my day-to-day dealings - the pictures describe exactly what goes through my head on a daily basis! Thus, making it original and adapted to me! 
 
 To create them, I used the R [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package and `R` code which is displayed below: 
 
@@ -101,15 +101,3 @@ meme <- c(top_meme, line_break, bottom_meme) %>%
 image_write(meme, "images/my_meme.png")
 ```
 
-
-Edit the index.md file so that it displays a new original meme that you have created using Rcode and the {magick} package, as well as the R code you used to create it.
-
-Your index.md file needs contain information about the meme you created, for example, whatthe motivation was, and how your meme is new/original (e.g. an adaption of an existing memeformat).
-
-Either one or both of your README.md and index.md files needs text that demonstrates at least the following Markdown syntax:
-- use of two different levels of headers
-- use of two different types of bullet points (ordered or unordered)
-- use of bold and italics
-- use of links to other websites
-- use of images, including those within your repository and those accessed from other websites
-- use of code fences
