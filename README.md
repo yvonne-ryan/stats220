@@ -5,7 +5,7 @@
 # stats220
 **Hello and welcome to my STATS 220 repository!** 
 
-You'll find that this repository is dedicated to my first STATS 220 Assignment based around creating `html` using modern technologies! So if you've stubbled upon this and would like to check it out, here's the [link!](https://yvonne-ryan.github.io/stats220/)
+You'll find that this repository is dedicated to my first STATS 220 Assignment based around creating `html` using modern technologies! So if you've stumbled upon this and would like to check it out, here's the [link!](https://yvonne-ryan.github.io/stats220/)
 
 While I created this for a Statistics course, you'll notice that I've themed my assignment around a small lawn-mowing and garden maintenance business I help to run. 
 
