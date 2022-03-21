@@ -31,5 +31,4 @@ Here are three of my main goals I hope to achieve from this degree and course:
 So there you have a little about me! Thanks for reading! 
 
 ![](little_mower.png)
-
 ^p.s this is me whislt you're reading this 
