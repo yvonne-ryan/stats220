@@ -10,7 +10,8 @@
 </h3>
 
 <p align="center">
-     Welcome to my STATS 220 Assignment 1! <br /> <br /> Below is the meme I've created! The inspiration for this meme comes from my role in helping to run a small lawn-mowing and garden maintenance business in Tauranga! <span>:deciduous_tree:</span>
+     Welcome to my STATS 220 Assignment 1! <br /> <br /> Below is the meme I've created! The inspiration for this meme comes from my role in helping to run a small lawn-mowing and garden maintenance business in Tauranga! <br />
+  <span>:deciduous_tree:</span>
 </p> 
 
 <p img align="center">
@@ -22,9 +23,9 @@
  </p>
 
 <p align="center">
-  <span>:cherry_blossom:</span> Unless you would like to be ripped off <span>:cherry_blossom:</span> <br /> 
+  Unless you would like to be ripped off <br /> 
   <span>:cherry_blossom:</span> <em>please</em> <span>:cherry_blossom:</span> <br /> 
-  <span>:cherry_blossom:</span> <strong>Don't be that person!</strong> <span>:cherry_blossom:</span>
+  <strong>Don't be that person!</strong>
 </p>
 
 ### About my meme
@@ -103,3 +104,5 @@ image_write(meme, "images/my_meme.png")
 I hope you've found some of this interesting! 
 
 Thanks for reading! 
+
+:four_leaf_clover:
