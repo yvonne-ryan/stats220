@@ -31,7 +31,7 @@
 
 Now that you know a little of the inspiration behind my meme, let me tell you how I created it! 
 
-Though the images used are of two very well known memes, I've adjusted the context to suit my day-to-day dealings - the pictures describe exactly what goes through my head on a daily basis! Thus, making it original and adapted to me! 
+Though the images used are of two very well known memes, I've adjusted the context to suit my day-to-day dealings - the pictures describe exactly what goes through my head on a daily basis! Thus, with my own twist on it, make the meme adapted to me! 
 
 To create them, I used the R [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package and `R` code which is displayed below: 
 
