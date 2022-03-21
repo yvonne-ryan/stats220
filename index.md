@@ -100,4 +100,4 @@ meme <- c(top_meme, line_break, bottom_meme) %>%
 # saving meme - the most important part!
 image_write(meme, "images/my_meme.png")
 ```
-
+Thanks for reading! 
